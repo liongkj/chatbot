@@ -1,0 +1,41 @@
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Bot Application.dll.config
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Bot Application.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Bot Application.pdb
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Autofac.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Chronic.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Builder.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Connector.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Newtonsoft.Json.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Net.Http.Formatting.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Web.Http.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Web.Http.WebHost.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Autofac.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Builder.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.Bot.Connector.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\Newtonsoft.Json.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Net.Http.Formatting.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Web.Http.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\System.Web.Http.WebHost.xml
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\obj\Debug\HRMain.csprojResolveAssemblyReference.cache
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\obj\Debug\HRMain.csproj.CoreCompileInputs.cache
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\obj\Debug\Bot Application.dll
+C:\Users\teshw\Documents\Visual Studio 2017\Projects\HRMain\HRMain\obj\Debug\Bot Application.pdb
